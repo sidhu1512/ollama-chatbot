@@ -11,4 +11,4 @@ COPY . .
 RUN ./mvnw clean package -DskipTests
 
 # Run the built JAR file (change this if needed)
-CMD ["java", "-jar", "ollama-chatbot-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/ollama-chatbot-0.0.1-SNAPSHOT.jar"]
