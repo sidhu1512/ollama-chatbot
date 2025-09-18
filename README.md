@@ -4,7 +4,6 @@ This project is a fully functional, real-time chatbot application that runs a La
 
 The primary goal of this project is to create a powerful, private, and cost-effective AI chatbot that does not rely on external, cloud-based APIs.
 
-![Chatbot Screenshot](https://i.imgur.com/example.png) ---
 
 ### ✨ Key Features
 
